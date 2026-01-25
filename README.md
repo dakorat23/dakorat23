@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cloud Operation Engineer<br><br>DevOps | GIT and GITHUB 🐙| Docker 🐋| | AWS /Azure / GCP 🖥️
+Cloud Operation Engineer<br><br>DevOps | GIT and GITHUB 🐙| Docker 🐋| AWS /Azure / GCP 🖥️
 
 
 # 💻 Tech Stack:
